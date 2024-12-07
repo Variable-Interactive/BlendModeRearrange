@@ -1,9 +1,0 @@
-ea4bc82a6ad023ab7ee23ee620429895
-::res://::1733536854
-export_presets.cfg::TextFile::-1::1733536780::0::1::::<><>::
-::res://src/::1733536780
-::res://src/Extensions/::1733536780
-::res://src/Extensions/BlendModeRearrange/::1733536780
-extension.json::JSON::-1::1733536780::0::1::::<><>::
-Main.gd::GDScript::-1::1733536780::0::1::::<>Node<>::
-Main.tscn::PackedScene::-1::1733536780::0::1::::<><>::res://src/Extensions/BlendModeRearrange/Main.gd
